@@ -1,0 +1,10 @@
+OK: Registro y b?squeda binaria
+OK: Duplicado rechazado
+OK: Edici?n
+OK: Pila deshacer
+OK: Eliminaci?n
+OK: Integridad de asistencias
+OK: Persistencia
+OK: Cola FIFO
+OK: Merge Sort
+OK: B?squeda lineal
